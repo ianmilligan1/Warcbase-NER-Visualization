@@ -1,6 +1,6 @@
 #Warcbase-NER-Visualization
 
-We've been generating arrays of location frequency data with [warcbase](https://github.com/lintool/warcbase) - see our section on [named entity recognition](https://github.com/lintool/warcbase/wiki/Pig:-Named-Entity-Recognition-(on-a-cluster) - but a trick has been making this useful.
+We've been generating arrays of location frequency data with [warcbase](https://github.com/lintool/warcbase) - see our section on [named entity recognition](https://github.com/lintool/warcbase/wiki/Pig:-Named-Entity-Recognition-(on-a-cluster)) - but a trick has been making this useful.
 
 I decided to see if we could make the NER speak to Wolfram|Alpha, thanks to *Mathematica*'s new functionality. The results were interesting:
 
