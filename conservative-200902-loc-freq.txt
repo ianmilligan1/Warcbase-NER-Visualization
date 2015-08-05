@@ -1,0 +1,274 @@
+   9278 Canada
+    665 Calgary
+    314 Colombia
+    307 Montreal
+    296 South Fraser Perimeter Road
+    236 Ontario
+    181 Afghanistan
+    130 Ottawa
+    115 Manitoba
+     89 British Columbia
+     79 Toronto
+     78 Nova Scotia
+     73 Saskatchewan
+     72 Quebec
+     72 Alberta
+     68 Winnipeg
+     57 Washington
+     38 Canadian
+     37 Nunavut
+     36 Whitehorse
+     34 United States
+     34 Petawawa
+     33 Mumbai
+     33 Lima
+     30 Americas
+     27 Saskatoon
+     27 Peru
+     25 Edmonton
+     24 Mexico
+     24 Chicoutimi
+     23 New Brunswick
+     22 U.S.
+     22 Newfoundland
+     22 Kandahar
+     21 Nepean
+     21 Asia-Pacific
+     20 Labrador
+     18 Victoria
+     18 United States of America
+     18 Quebec City
+     18 India
+     15 Beauport
+     15 Atlantic
+     14 St. Germain
+     13 Durham
+     12 Waterloo
+     12 Vancouver
+     12 Stratford
+     12 Rome
+     12 Placentia
+     12 North
+     12 Niagara Falls
+     12 Laval
+     12 Iqaluit
+     12 Gatineau
+     12 Fort Nelson
+     12 Europe
+     12 Dawson Creek
+     12 Brantford
+     11 Kingston
+     11 Columbia
+     10 Moncton
+     10 Fredericton
+      9 Wolfville
+      9 Simcoe
+      9 Nova Scotia Court
+      9 Mexican
+      9 Italy
+      9 China
+      9 Asia
+      8 Terrau
+      8 Labrador Nova Scotia
+      8 CANADA
+      7 Québec City
+      7 Poland
+      6 Team Canada
+      6 Summerside
+      6 St. James
+      6 St. Brides
+      6 South Korea
+      6 South Glengarry
+      6 South Fraser Perimeter Road Home
+      6 Seoul
+      6 Scotia
+      6 Sainte-Foy
+      6 Saanich
+      6 Rothesay
+      6 Red River
+      6 Peace River North
+      6 Peace River
+      6 Palmer
+      6 Oshawa
+      6 Oakville
+      6 NY
+      6 North American
+      6 North America
+      6 Norfolk
+      6 Niagara
+      6 Nfld.
+      6 New York
+      6 New Westminster-Coquitlam
+      6 New Glasgow
+      6 Muskoka
+      6 Mount Sinai Hospital
+      6 Montgomery
+      6 Mississauga
+      6 Mexico City
+      6 Maniwaki
+      6 Louis-Hébert
+      6 Limoilou
+      6 Kyoto
+      6 Korean
+      6 Korea
+      6 Kitigan Zibi
+      6 Kandahar City
+      6 Kanata
+      6 Jonquière
+      6 Israel
+      6 Haiti
+      6 Gulf Islands
+      6 Grey
+      6 Grenoble
+      6 Grandville
+      6 Fraser Valley
+      6 Fort Langley
+      6 Dublin
+      6 Dartmouth
+      6 Columbus
+      6 Canada Niagara Falls
+      6 Cambridge
+      6 Brightsand Lake
+      6 Berlin
+      6 Assiniboia
+      5 Whistler
+      5 Parliament Hill
+      5 Africa
+      4 York
+      4 Turner Valley
+      4 Sunbury
+      4 Stratton
+      4 Sault
+      4 Leaside
+      4 Janis Manitoba
+      4 Harrington Lake
+      4 Gdansk
+      4 Etobicoke
+      4 Cluny
+      3 Zharey District
+      3 Windsor
+      3 Whitby
+      3 Westwood
+      3 Westmount
+      3 Washington DC
+      3 Univ. de Princeton
+      3 United Way
+      3 United Nations-sanctioned
+      3 United Nations-mandated
+      3 United Kingdom
+      3 Uganda
+      3 Sydney
+      3 Swandel
+      3 St. John 's
+      3 St. Johns
+      3 Stéphane Dion
+      3 Stanley Park
+      3 South America
+      3 South Africa
+      3 Sidney
+      3 Shah Wali Kowt District
+      3 Sask
+      3 San Francisco
+      3 Roberval
+      3 Rideau Hall
+      3 Québec
+      3 Que.
+      3 Public Safety York
+      3 Port Sydney
+      3 Port Moody
+      3 Port Coquitlam
+      3 Port Au Port
+      3 Pontiac
+      3 Perm
+      3 Pembroke
+      3 Parry Sound
+      3 Pacific
+      3 Our Lady of Lourdes
+      3 Okanagan
+      3 N.S.
+      3 Northwest Territories
+      3 Northwest Passage
+      3 Nfld
+      3 Nepean Kiwanis
+      3 Nattilik
+      3 Nahanni
+      3 Montréal
+      3 Mongolia
+      3 McMahon Stadium
+      3 Lotbinière-Chutes-de-la-Chaudière
+      3 London
+      3 Lincoln
+      3 Le Canada
+      3 La Francophonie Louis
+      3 Labrador Northwest Territories Nunavut Nova Scotia Ontario
+      3 Kenaston
+      3 Jordan
+      3 Japan
+      3 Ireland
+      3 Institut
+      3 Indonesia
+      3 Iceland
+      3 Hungary
+      3 Hudson
+      3 Hamilton
+      3 Halton
+      3 Halifax
+      3 Guelph
+      3 Gjoa Haven
+      3 Geneva
+      3 Fraser Canyon
+      3 Francophonie Louis
+      3 Fort St. John
+      3 Fisher Park
+      3 Eaton
+      3 Digby County
+      3 Detroit
+      3 Colombian
+      3 Collège Prince of Wales
+      3 Chilliwack
+      3 Charlotte County Hospital
+      3 Chabad Lubavitch
+      3 Carleton
+      3 Canadian Forces Base Petawawa
+      3 Canada Dans
+      3 Calgary Southwest
+      3 Burma
+      3 Burin
+      3 Britain
+      3 Brazil
+      3 Brampton West
+      3 Brampton South
+      3 B.C.
+      3 Aung San Suu Kyi
+      3 Atlantic Gateway Central Nova
+      3 Atlantic Canadian
+      3 Asia-Pacific Gateway Okanagan
+      3 Asia-Pacific Gateway
+      3 Arghandab District
+      3 Arctic
+      3 Antigonish
+      3 Alberta Legislature
+      3 Alberta British Columbia Manitoba New Brunswick Newfoundland
+      2 Terry Manitoba
+      2 Scotia Di Nino
+      2 Rocky Mountain
+      2 Pemberton
+      2 Noël Nouveau-Brunswick
+      2 Noël New Brunswick
+      2 Neufeld
+      2 Langley
+      2 Labrador Martin
+      2 Gerry British Columbia
+      2 Di Nino
+      2 Chile
+      2 Central Etobicoke
+      2 Briercrest
+      1 UK
+      1 St. Lawrence River
+      1 Sault College Outback
+      1 Northern Canada
+      1 Nicolet
+      1 Luseland
+      1 Edmonton Spruce Grove
+      1 Edmonton Centre
+      1 Argenteuil

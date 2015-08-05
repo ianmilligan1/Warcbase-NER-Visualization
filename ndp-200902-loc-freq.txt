@@ -1,0 +1,611 @@
+   3983 Canada
+    369 Alberta British Columbia Manitoba New Brunswick Newfoundland
+    361 Labrador Nova Scotia Nunavut Ontario Prince Edward Island Quebec Saskatchewan Northwest Territories Yukon Search
+    252 Afghanistan
+    248 US
+    238 OTTAWA
+    181 Ontario
+    178 Ottawa
+    143 Oshawa
+    112 United States
+    112 Quebec
+    108 U.S.
+     88 Toronto
+     76 Manitoba
+     67 London
+     62 Saskatchewan
+     58 TORONTO
+     58 Alberta
+     55 Montreal
+     55 British Columbia
+     49 Edmonton
+     44 HALIFAX
+     43 Victoria
+     39 Kamloops
+     37 Welland
+     36 Newfoundland
+     34 Iraq
+     32 OSHAWA
+     30 Atlantic
+     28 WINNIPEG
+     28 VANCOUVER
+     26 MONTREAL
+     26 Israel
+     25 Kitchener
+     23 Sri Lanka
+     22 WELLAND
+     22 Saskatoon
+     22 Halifax
+     22 Gaza
+     21 Labrador
+     21 Gatineau
+     20 Jordan
+     20 Barriere Lake
+     18 North America
+     18 Burnaby
+     17 Vancouver
+     17 Oakville
+     17 Mumbai
+     16 Nova Scotia
+     16 New Democrat
+     16 Middle East
+     16 Kandahar
+     15 Thompson
+     15 Diwali
+     14 Windsorites
+     14 North American
+     14 Mississauga
+     14 Mexico
+     14 Churchill
+     14 Bloc Quebecois
+     13 Sault
+     13 New Westminster
+     13 Chalk River
+     12 Windsor
+     12 Manitoulin
+     12 Kapuskasing
+     12 India
+     12 Hamilton Centre
+     12 Calgary
+     11 Olivia Chow
+     11 Nanaimo
+     11 Hamilton Mountain
+     11 EDMONTON
+     10 Waterloo
+     10 Sudbury
+     10 Pacific
+     10 Kenora
+     10 KAMLOOPS
+     10 Fort McMurray
+      9 Wellington
+      9 Vancouver East
+      9 Toronto-Danforth
+      9 New Brunswick
+      9 Etobicoke
+      8 UK
+      8 Stoney Creek
+      8 Skeena-Bulkley Valley
+      8 Richmond
+      8 Quebec City
+      8 Nepean
+      8 Japan
+      8 Hamilton East
+      8 Fredericton
+      8 China
+      8 Bulkley Valley
+      8 B.C. Bay Street Harper
+      8 Australia
+      8 Athabasca River
+      8 Athabasca
+      8 America
+      7 Thunder Bay
+      7 Sydney
+      7 Souris
+      7 Skeena
+      7 Nunavik
+      7 Abbotsford
+      6 Spadina
+      6 Rainy River
+      6 Ottawa River
+      6 Ottawa OTTAWA
+      6 Ottawa Centre
+      6 Okanagan
+      6 Northern Ontario
+      6 Moncton
+      6 Longueuil
+      6 Korea
+      6 KENORA
+      6 Kelowna
+      6 Kashechewan
+      6 Israeli
+      6 Iqaluit
+      6 Chicoutimi
+      6 Britain
+      6 Brampton
+      6 Atlantic Canada
+      6 Alexandria
+      6 Africa
+      5 White Rock
+      5 West Vancouver
+      5 Swan River
+      5 Sarnia
+      5 Riverview
+      5 Nunavut
+      5 Mississauga East
+      5 Missinippi
+      5 Middlesex
+      5 Madawaska
+      5 Lethbridge
+      5 Layton Carbon
+      5 Labrador Nova Scotia Nunavut
+      5 Kawartha Lakes
+      5 Kamouraska
+      5 Hamilton
+      5 Grey
+      5 French
+      5 Elliot Lake
+      5 Charlottetown
+      5 Charlevoix
+      5 Burin
+      5 Americas
+      4 Zhari
+      4 Winnipeg North
+      4 Willowdale
+      4 Westmount
+      4 West
+      4 Vancouver Kingsway
+      4 United Way
+      4 Terrebonne
+      4 Sweden
+      4 Sunshine Coast
+      4 SUDBURY
+      4 St. Thomas
+      4 St. James
+      4 St. Barbe
+      4 Springdale
+      4 South Shore
+      4 South
+      4 SASKATOON
+      4 Sakville
+      4 Saint-Maurice
+      4 Saanich
+      4 Ramadan
+      4 Rainey River
+      4 QUEBEC CITY
+      4 Portage
+      4 Perth
+      4 Northumberland
+      4 North
+      4 Norfolk
+      4 Newton
+      4 Netherlands
+      4 Navaratri
+      4 Muskoka
+      4 Métis
+      4 Maple Ridge
+      4 Malton
+      4 London Fanshawe
+      4 La Presse
+      4 Lachine
+      4 Kyoto
+      4 Kingston
+      4 Indonesia
+      4 Hamilton East-Stoney Creek
+      4 Halton Hills
+      4 Hajj
+      4 Grand Falls
+      4 Gaza Strip
+      4 GATINEAU
+      4 France
+      4 Etobicoke North
+      4 Essex County
+      4 Eid-ul-Adha
+      4 Colchester
+      4 C-F-B Moose Jaw
+      4 Cape Breton
+      4 CALGARY
+      4 Burrard
+      4 Burlington
+      4 Bonavista
+      4 Beauport
+      4 Bathurst
+      4 Aurora
+      4 Argenteuil
+      3 Yellowknife
+      3 Winnipeg
+      3 Whitby
+      3 Wellington Street
+      3 Unionville
+      3 Stanstead
+      3 South Surrey
+      3 South Burnaby
+      3 Rosemont
+      3 Richmond Hill
+      3 POZNAN
+      3 Port Coquitlam
+      3 Pontiac
+      3 Pitt Meadows
+      3 Peace River
+      3 Parry Sound
+      3 Ottawa West
+      3 Ottawa Green
+      3 Niagara Falls
+      3 Niagara
+      3 Montcalm
+      3 Manicouagan
+      3 Langley
+      3 Kootenay
+      3 Joliette
+      3 Harper
+      3 Hants
+      3 Guelph
+      3 Esquimalt
+      3 East York
+      3 Durham
+      3 Dauphin
+      3 Cypress Hills
+      3 Cumberland
+      3 Churchill River
+      3 Chambly
+      3 Brome
+      3 Bas-Richelieu
+      3 Ancaster
+      3 Adelaide St. North London
+      2 York South-Weston
+      2 York South
+      2 York
+      2 Wolfville
+      2 Wisconsin
+      2 Windsor-Quebec City
+      2 WINDSOR
+      2 Whitehorse
+      2 Westwood
+      2 Weston
+      2 Westlock
+      2 Western Canada
+      2 Watson Lake
+      2 Waterloo Region
+      2 Vladivostok
+      2 Vietnam Lives
+      2 Victoria Harbour
+      2 Victoria City
+      2 Verdun
+      2 Vegreville
+      2 Trois-Rivieres
+      2 Timmins Bay
+      2 Summerside
+      2 Sudan
+      2 St. Lawrence
+      2 St. Guelph
+      2 Sterling Road Glace Bay
+      2 St. East
+      2 St. Catharines
+      2 Soviet Union
+      2 South Lethbridge
+      2 South Korea
+      2 Southern Ontario
+      2 Sherwood Drive Woodstock
+      2 Saudi Arabia
+      2 San Francisco Chronicle
+      2 Saint-Hyacinthe
+      2 Sackville
+      2 Russia
+      2 Rouge River
+      2 Rosetown
+      2 Roquebrune Gatineau
+      2 Road Dawson Creek
+      2 River Road Big River
+      2 River Heights
+      2 Rideau Gardens
+      2 Richmond Road Ottawa
+      2 Richmond East
+      2 Renfrew
+      2 Rankin Inlet
+      2 Poznan
+      2 Portneuf
+      2 Port Moody
+      2 Poland
+      2 Pierrefonds
+      2 Philippines
+      2 Peterborough
+      2 Petawawa
+      2 Persian Gulf
+      2 P.C.
+      2 Palestine
+      2 Ottawa West Nepean
+      2 Ottawa Citizen
+      2 Orillia
+      2 Ont.
+      2 Olivia
+      2 Oakville Beaver
+      2 Northwest Passage
+      2 Northumberland Street Fredericton
+      2 Northern River Basin Study
+      2 Nigeria
+      2 Niagara West
+      2 Niagara Falls Review
+      2 New Glasgow
+      2 New Democrats
+      2 Nepean-Carleton
+      2 Nanaimo-Cowichan
+      2 Musquodoboit Valley
+      2 Mount Pearl
+      2 Montmagny
+      2 Moffat Road Richmond
+      2 Mississippi
+      2 Mississauga Valley Blvd Mississauga
+      2 Middle East Published
+      2 Mégantic
+      2 Markham
+      2 Maloway
+      2 Lévis
+      2 Lesotho
+      2 Layton Everyday
+      2 Layton
+      2 Laval
+      2 Laurentides
+      2 Latin America
+      2 Lambton
+      2 Lac St. Jean
+      2 Labrador Northwest Territories Nova Scotia Nunavut
+      2 Kitchener-Waterloo
+      2 Kildonan
+      2 Kent
+      2 Kensington
+      2 Kenora-Rainy River
+      2 Kassandra
+      2 Kanata
+      2 James Bay
+      2 Jamaica
+      2 Jakarta
+      2 Italy
+      2 Ireland
+      2 IQALUIT
+      2 Honourable Monte Solberg
+      2 Hong Kong
+      2 Heerlen
+      2 Hecate Strait
+      2 Hamilton Spectator
+      2 Haliburton
+      2 Gulf Islands
+      2 Guadalajara
+      2 Grand River Hospital
+      2 Gillam Born
+      2 Germany
+      2 Fraser Street Vancouver
+      2 Fraser Avenue Port Coquitlam
+      2 Fort Frances Library
+      2 Formet Industries
+      2 Europe
+      2 EU
+      2 England
+      2 Elmwood
+      2 Elgin
+      2 Eglinton
+      2 Edmonton East
+      2 Eastern Shore
+      2 Earth
+      2 Downsview
+      2 Dorchester West
+      2 Disraeli Bridge Holds
+      2 Dieppe
+      2 Democratic Republic of Congo
+      2 Davenport
+      2 Darfur
+      2 Dana
+      2 Dalhousie
+      2 Cowichan
+      2 Corunna
+      2 Coquitlam
+      2 Compton
+      2 Columbus
+      2 Cloverdale
+      2 Chomedey
+      2 Chilliwack
+      2 Chatham-Ken-Essex
+      2 Cedar Cottage-Glen Park
+      2 Cawthra Road Mississauga
+      2 Castlegar
+      2 Carleton
+      2 Canada IQALUIT
+      2 Cambridge Bay
+      2 Cambridge
+      2 Cambodia
+      2 Burnaby Heights
+      2 Burlington Lives
+      2 Broadview Avenue
+      2 British Columbia VANCOUVER
+      2 Brazil
+      2 Brampton West
+      2 Brampton South
+      2 Botswana
+      2 Bosnia-Herzegovina
+      2 Bethlehem
+      2 Beaumont
+      2 Beauce
+      2 Beach Hill Road Rose Bay
+      2 Beaches-East York
+      2 B.C.
+      2 Bangladesh
+      2 Azizabad
+      2 Atlantic Region
+      2 Assiniboia
+      2 Asian
+      2 Asia
+      2 Arctic Sovereignty
+      2 Arctic Ocean
+      2 Arctic
+      2 Algonquin
+      2 Algoma Manitoulin
+      2 Alberta Bar
+      2 Africa Lives
+      1 Winnipeg South Centre
+      1 Winnipeg South
+      1 Weston York West York
+      1 Westdale
+      1 Waterloo Lambton
+      1 Washington Forest Law Centre
+      1 Wanuskewin Souris
+      1 Villa Road Nanaimo
+      1 Victoria West Nova
+      1 VICTORIA
+      1 Vancouver Island North
+      1 Upper James Street
+      1 Unionville Mississauga East
+      1 Transcona Kildonan
+      1 Tisdale Street South Hamilton
+      1 Timmins
+      1 Timiskaming Northumberland
+      1 Surrey North
+      1 Streetsville Nepean
+      1 Streetsville
+      1 St. Paul Portage
+      1 Stoney Creek Hamilton Mountain Huron
+      1 St. George 's
+      1 St. Albert Edmonton
+      1 Spruce Grove Edmonton
+      1 Springdale Brant Bruce
+      1 Spadina Vaughan Welland Wellington
+      1 Spadina Citizenship
+      1 South Glengarry Sudbury Thornhill Thunder Bay
+      1 Souris Charleswood
+      1 Simcoe
+      1 Sherwood Park Edmonton
+      1 Sherbrooke
+      1 Saskatchewan Battlefords
+      1 Salaberry Beauport
+      1 Saint-Michel Saint-Maurice
+      1 Sainte-Marie Laval Laval
+      1 Saint-Constant Chicoutimi
+      1 Rouge River Simcoe North Simcoe
+      1 Ridgewood Avenue Ottawa
+      1 Richmond East Esquimalt
+      1 Restigouche Miramichi Moncton
+      1 Reine Marie Road
+      1 Rainy River Thunder Bay
+      1 Queen Street East
+      1 Québec
+      1 Port Kells Kamloops
+      1 Port Kells
+      1 Pembroke Richmond Hill Sarnia
+      1 Peace River Richmond Saanich
+      1 Owen Sound Burlington Cambridge Carleton
+      1 Ottawa South
+      1 Oshawa Willowdale Windsor West Windsor
+      1 Orléans Ottawa
+      1 N.S.
+      1 Nova Scotia Cape Breton
+      1 Nose Hill Crowfoot Edmonton Centre Edmonton East Edmonton
+      1 North York
+      1 Northwest Territories
+      1 North Vancouver
+      1 North Delta North Vancouver Okanagan
+      1 North Delta
+      1 Norfolk Haliburton
+      1 Niagara-Ouest
+      1 New Brunswick Southwest
+      1 New Brunswick Acadie
+      1 Nepean Ottawa
+      1 Musquodoboit Valley Dartmouth
+      1 Muskoka Perth
+      1 Montcalm Montmagny
+      1 Mississippi Mills Chatham-Kent
+      1 Mississippi Mills
+      1 Mississauga South
+      1 Mississauga-Est
+      1 Missisquoi
+      1 Mirabel
+      1 Middle East Urgently
+      1 Middle East Canada
+      1 Matapédia
+      1 Manitoba Brandon
+      1 Malton Brampton West Brampton
+      1 London North Centre
+      1 Lisgar
+      1 Les Patriotes Westmount
+      1 Leduc Edmonton
+      1 Lazelle Avenue
+      1 Layton EDMONTON
+      1 Layton Calls
+      1 Lauzon Road
+      1 La Prairie Chambly
+      1 Lanark
+      1 La Mitis
+      1 Lake Country Kootenay
+      1 Lake Country
+      1 Lake Centre Regina
+      1 Lake Centre
+      1 Lac-Saint-Jean Rosemont
+      1 Lachine Outremont Papineau Pierrefonds
+      1 Labrador Nova Scotia Nunavut Ontario Prince Edward Island Quebec Saskatchewan Northwest Territories Yukon
+      1 Labrador Avalon Bonavista
+      1 Kirkland Lake
+      1 Kingsway Avenue Vancouver
+      1 Kapuskasing Ancaster
+      1 Islands Kitchener Centre Kitchener
+      1 Ingram Street
+      1 Huron
+      1 Humboldt Saskatoon
+      1 High Park Parry Sound
+      1 Harper Throne
+      1 Hants Sackville
+      1 Hamilton-Est
+      1 Hamilton Centre Hamilton East
+      1 Halton Hills Whitby
+      1 Gulf Islands Skeena
+      1 Grey St. Catharines St. Paul
+      1 Grenville London North Centre London West London
+      1 Gottingen Street Halifax
+      1 Glanbrook
+      1 Fraser Canyon
+      1 Fall River
+      1 Essex Davenport Don Valley East Don Valley West Dufferin
+      1 Erindale Mississauga
+      1 East York Bramalea
+      1 Eastern Shore South Shore
+      1 Dundas Street London
+      1 Dufferin
+      1 Drouillard Road Windsor
+      1 Douglas Burnaby
+      1 Don Valley West
+      1 Don Valley East
+      1 Desnethé
+      1 Dawson Street Burnaby
+      1 Cowichan New Westminster
+      1 Coquihalla Okanagan
+      1 Coquihalla
+      1 Cooksville Mississauga South Mississauga
+      1 Conestoga Kitchener
+      1 Columbia Langley Nanaimo
+      1 Cole Harbour
+      1 Churchill River Palliser
+      1 Charleswood
+      1 Champlain Shefford Sherbrooke Terrebonne
+      1 Champlain
+      1 Cartierville
+      1 Carleton Newmarket
+      1 Cariboo Kelowna
+      1 Cariboo
+      1 Canso Central Nova Cumberland
+      1 Burnaby-New Westminster
+      1 Bulkley Valley South Surrey
+      1 Bruce Kenora Kingston
+      1 Brandon
+      1 Brampton South Mississauga
+      1 Blanshard Street Victoria
+      1 Big River Road Big River
+      1 Biggar Saskatoon
+      1 Bellechasse Longueuil
+      1 Beaumont Edmonton
+      1 Austin Avenue Coquitlam
+      1 Aurora Niagara Falls Niagara West
+      1 Athabasca River Published
+      1 Athabasca River POZNAN
+      1 Athabasca River Duncan
+      1 Athabasca Lethbridge Macleod Medicine Hat Peace River Red Deer Vegreville
+      1 Assiniboia Churchill Dauphin
+      1 Arthabaska
+      1 Alberni Nanaimo
+      1 Alberni
+      1 Adelaide St N London
+      1 Addington Leeds
