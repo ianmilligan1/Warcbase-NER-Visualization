@@ -4,7 +4,7 @@
 
 ## Locations
 
-For more information, see my full blog post ["Using Mathematica to Plot Locations Mentioned in Web Archives."](http://ianmilligan.ca/2015/08/05/using-mathematica-to-plot-locations-mentioned-in-web-archives/)
+For more information, see my two blog posts: ["Using Mathematica to Plot Locations Mentioned in Web Archives"](http://ianmilligan.ca/2015/08/05/using-mathematica-to-plot-locations-mentioned-in-web-archives/) and ["Using Extracted Names to explore Web Archives](http://ianmilligan.ca/2015/08/06/using-extracted-names-to-explore-web-archives/).
 
 We've been generating arrays of location frequency data with [warcbase](https://github.com/lintool/warcbase) - see our section on [named entity recognition](https://github.com/lintool/warcbase/wiki/Pig:-Named-Entity-Recognition-(on-a-cluster)) - but a trick has been making this useful.
 
